@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #f1f1f1;
+}
+
+.color{
+    color: black;
+    background-color: white;
+}
+
+.color1{
+    color:#00A5EC;
+    background-color: white;
+}
+
+.button1{
+    margin-left: 700px;
+    font: 50px;
+    text-decoration: none;
+}
+
+.button2{
+    top: 44px;
+    display: inline;
+    margin:400px;
+    margin-top: 12px;
+    padding-left: 24px;
+    position: relative;
+}
+
+
+.card{
+    width: 340px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 3px;
+    margin-left: 500px;
+    border-radius: 5px;
+    font-size: 13px;
+ }
+.card h1{
+    color: skyblue;
+    margin-left: 8px;
+}
+
+.card form{
+    color: #C2C2C2;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.remove_underline{
+    text-decoration: none;
+}
