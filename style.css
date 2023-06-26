@@ -34,6 +34,7 @@ body{
    margin: 12px;
    border-radius: 5px;
    font-size: 13px;
+   background-color: white;
 }
 .card1 h1{
     color: skyblue;
