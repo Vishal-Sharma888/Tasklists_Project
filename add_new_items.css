@@ -5,8 +5,8 @@
     border: 1px solid rgb(15,112,99);
     box-shadow: 2px 2px 5px grey;
     border-radius: 5px;
-    margin-top: -270px;
-    margin-left:450px ;
+    margin-top: -251px;
+    margin-left: 479px;
     background-color: white;
     position: absolute;
 }
@@ -34,6 +34,7 @@
 .inp{
     margin-left: 10px;
     width: 500;
+    margin-top: 12px;
 }
 
 .item_button{
@@ -44,7 +45,12 @@
     bottom: 10px;
     right: 10px;
 }
-
+.btn2{
+    margin-left: 450px;
+    position: relative;
+    top: 24px;
+    font-weight: bolder;
+}
 .item_button p{
     text-align: center;
     padding-top: 10px;
@@ -62,7 +68,14 @@
     position: absolute;
       bottom: 2px;
 } 
-
+.item_opra{
+    width: 100%;
+    height: 590px;
+    background-color: grey;
+    filter: blur(2px);
+    position: absolute;
+    bottom: 2px;
+}
 
 
 
@@ -109,6 +122,7 @@ body{
     margin-left: 500px;
     border-radius: 5px;
     font-size: 13px;
+    margin-top: 139px;
  }
 .card h1{
     color: skyblue;
